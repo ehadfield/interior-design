@@ -1,0 +1,26 @@
+.sidebar {
+  float: right;
+}
+
+.a {
+  width: 300px;
+  float: left;
+  padding: 10px;
+}
+
+.b {
+  width: 300px;
+  float: left;
+  padding: 10px;
+
+}
+
+.c {
+  width: 300px;
+  float: left;
+  padding: 10px;
+}
+
+img {
+  float: right;
+}
